@@ -1,6 +1,6 @@
 Если вы нашли баг, не стесняйтесь писать нам в группу вк! https://vk.com/bkbmanga
 
-[Актуальная версия для Windows(EXE)](https://github.com/SemCHICH/SlasherBKB/releases/tag/v3))
+[Актуальная версия для Windows(EXE)](https://github.com/SemCHICH/SlasherBKB/releases/tag/v3)
 
 [Первая версия и гайд к ней](https://github.com/SemCHICH/SlasherBKB/tree/main)
 
