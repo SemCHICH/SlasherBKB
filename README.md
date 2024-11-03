@@ -1,6 +1,6 @@
 Если вы нашли баг, не стесняйтесь писать нам в группу вк! https://vk.com/bkbmanga
 
-Актальная версия для Windows(EXE) - https://github.com/SemCHICH/SlasherBKB/blob/SemCHICH-Releases3/SlasherBKB.zip
+Актуальная версия для Windows(EXE) - https://github.com/SemCHICH/SlasherBKB/blob/SemCHICH-Releases3/SlasherBKB.zip
 
 Моя программа создана для того, чтобы нарезать длинные изображения или множество мелких, на нужное вам количество с/без учёта рисунка на входных изображениях.
 Так же есть функционал для преобразования изображений или PSD в jpeg с выбором качества преобразования, и необязательным выбором переименования в GIF и/или сохранение в PNG.
