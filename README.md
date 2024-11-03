@@ -1,8 +1,8 @@
 Если вы нашли баг, не стесняйтесь писать нам в группу вк! https://vk.com/bkbmanga
 
-Актуальная версия для Windows(EXE) - https://github.com/SemCHICH/SlasherBKB/blob/SemCHICH-Releases3/SlasherBKB.zip
+[Актуальная версия для Windows(EXE)](https://github.com/SemCHICH/SlasherBKB/releases/tag/v3))
 
-Первая версия и гайд к ней доступны тут - https://github.com/SemCHICH/SlasherBKB/tree/main
+[Первая версия и гайд к ней](https://github.com/SemCHICH/SlasherBKB/tree/main)
 
 Моя программа создана для того, чтобы нарезать длинные изображения или множество мелких, на нужное вам количество с/без учёта рисунка на входных изображениях.
 
